@@ -28,7 +28,7 @@ of the provided conda environments as required.
 
 Finally, create conda environment from YML file:
 ```
-conda env create --file ./environments/proj-home-ins.yml`
+conda env create --file ./environments/gan-tutorial.yml`
 ```
 
 
